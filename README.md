@@ -5,7 +5,7 @@
 ![Screenshot 2023-07-18 115654](https://github.com/PrabhKhinda/SIT120_Task1.1p/assets/133014455/67f66b69-a1b0-43fc-9f61-9825c03e80bc)
 
 
-This project is a simple web page designed to collect student details. It provides a user-friendly interface for students to input their information, including name, ID, course, address, and mobile number. The web page is built using HTML, CSS, and JavaScript.
+This project is a simple web page designed to collect student details. It provides a user-friendly interface for students to input their information, including name, ID, course, address, and mobile number. The web page is built using HTML & CSS.
 
 ## Features
 
